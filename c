@@ -143,6 +143,18 @@
     },
     {
         "domain": "mail.google.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "__Host-GMAIL_SCH",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "nsl"
+    },
+    {
+        "domain": "mail.google.com",
         "expirationDate": 1751340761.128662,
         "hostOnly": true,
         "httpOnly": true,
@@ -169,7 +181,7 @@
     },
     {
         "domain": ".google.com",
-        "expirationDate": 1780284770.922017,
+        "expirationDate": 1780284909.288484,
         "hostOnly": false,
         "httpOnly": true,
         "name": "__Secure-1PSIDCC",
@@ -178,11 +190,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "AKEyXzXV5gxRSZ86Ruy7QIjj5vHxYj7lhbACAyFEU-jMVpjZwwlh7ThbEzhc-wx50D67J6gtxJw"
+        "value": "AKEyXzXdkLDUGxBg7tF7BMkNax4JiQGUGzb1R79b3kG_56NGNPFa6HBeE8z6vUgIdZ5NYUFo45k"
     },
     {
         "domain": ".google.com",
-        "expirationDate": 1780284770.92206,
+        "expirationDate": 1780284909.288529,
         "hostOnly": false,
         "httpOnly": true,
         "name": "__Secure-3PSIDCC",
@@ -191,7 +203,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "AKEyXzUjM4363MWFOKnKY7gFzspLKZgh0ZdvUA5iQFP57-bnGUL9ANi2rf9WL7d0AQ_8Wt5H2w"
+        "value": "AKEyXzUYZzO3DHzYoW3ESbufkoGwsEZgFOnjjRKYLxmzhvqIlnSWmHDlNhIdfZm14RREmGfWAA"
     },
     {
         "domain": ".google.com",
